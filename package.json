@@ -1,6 +1,7 @@
 {
   "name": "hand-tracking-studio",
   "version": "1.0.0",
+  "description": "Real-time hand tracking application using computer vision",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -8,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "lucide-react": "^0.263.1"
   },
   "devDependencies": {
@@ -18,4 +21,3 @@
     "postcss": "^8.4.24"
   }
 }
-
